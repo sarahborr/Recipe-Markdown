@@ -7,8 +7,7 @@
  * Chill time: 30 minutes
  * Cook time: 10 minutes 
  * Total time: 60 minutes
- * Servings: About 24 
- * Total cost: 
+ * Servings: About 24  
 # Ingredients
 ---
 * 1 stick (8 tbs) [Crisco](https://www.walmart.com/ip/2-Pack-Crisco-Baking-Sticks-Butter-Flavor-All-Vegetable-Shortening/902200210?athcpid=902200210&athpgid=athenaItemPage&athcgid=null&athznid=PWVUB&athieid=v0&athstid=CS020&athguid=c6e00849-833-16d72bd455ced4&athancid=null&athena=true) $0.12/oz 
