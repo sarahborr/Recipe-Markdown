@@ -1,7 +1,7 @@
 # About
  This is a great tasting, milk-free chocolate chip cookie recipie. 
- ![Image of Cookies]()
- More recipie information here including:
+ ![Image of Cookies](https://sweetsimplevegan.com/wp-content/uploads/2019/03/Classic-Vegan-Chocolate-Chip-Cookies-Sweet-Simple-Vegan-3-copy.jpg)
+
  * Prep time: 20 minutes
  * Chill time: 30 minutes
  * Cook time: 10 minutes 
@@ -9,16 +9,16 @@
  * Servings: About 24 
  * Total cost:
 # Ingredients
-* 1 stick (8 tbs) [Crisco]()
-* 1 2/3 cups [Light brown sugar]()
-* 3 tbs [Water]()
-* 1 1/2 tbs [Vanilla extract]()
-* 1 [Egg]()
-* 2 2/3 cup [Flour]()
-* 1 tsp [Salt]()
-* 1 tsp [Baking soda]()
-* 1 cup [Chocolate chips]()
-* 1/2 cup [Chocolate chunks]()
+* 1 stick (8 tbs) [Crisco](https://www.walmart.com/ip/2-Pack-Crisco-Baking-Sticks-Butter-Flavor-All-Vegetable-Shortening/902200210?athcpid=902200210&athpgid=athenaItemPage&athcgid=null&athznid=PWVUB&athieid=v0&athstid=CS020&athguid=c6e00849-833-16d72bd455ced4&athancid=null&athena=true) $0.15/oz 
+* 1 2/3 cups [Light brown sugar](https://www.walmart.com/ip/4-Pack-Great-Value-Light-Brown-Sugar-2-Lb/47231817) $0.66/lb 
+* 3 tbs [Water](https://www.walmart.com/ip/Great-Value-Distilled-Water-1-Gallon/10315382) $0.94/gal 
+* 1 1/2 tbs [Vanilla extract](https://www.walmart.com/ip/3-Pack-Baker-s-Imitation-Vanilla-Extract-8-fl-oz/527790396) $0.12/oz
+* 1 [Egg](https://www.walmart.com/ip/Great-Value-Large-White-Eggs-12-count-24-oz/145051970) 
+* 2 2/3 cup [Flour](https://www.walmart.com/ip/2-Pack-Great-Value-All-Purpose-Flour-10-Lb/47231824) $0.35/lb 
+* 1 tsp [Salt](https://www.walmart.com/ip/4-Pack-Great-Value-Iodized-Salt-26-oz/47225759) $0.07/oz 
+* 1 tsp [Baking soda](https://www.walmart.com/ip/2-pack-Arm-Hammer-Pure-Baking-Soda-4-lb/243017576) $0.60/lb
+* 1 cup [Chocolate chips](https://www.walmart.com/ip/Enjoy-Life-Semi-Sweet-Dairy-Free-Mini-Chocolate-Chips-Vegan-10-oz/25524596?athcpid=25524596&athpgid=athenaItemPage&athcgid=null&athznid=PWVUB&athieid=v0&athstid=CS020&athguid=3517af0f-470-16d72c6d7731eb&athancid=null&athena=true) $0.49/oz 
+* 1/2 cup [Chocolate chunks](https://www.walmart.com/ip/Ghirardelli-60-Cacao-Bittersweet-Chocolate-Baking-Chips-20-oz/35772155) $0.28/oz 
 
 # Directions
 1. Mix Crisco, brown sugar, water, and vanilla extract until well combined.
