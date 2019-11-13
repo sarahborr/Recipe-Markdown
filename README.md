@@ -38,7 +38,7 @@
 # Notes
 ---
 Many ingredients can be substituted. Crisco can be changed to butter, chocolate chunks to pecans, or water to milk (keeping the same amounts).  
-# Inspired by
+# Inspired by:
 ---
 [Crisco Cookies](http://crisco.com/recipes/ultimate-chocolate-chip-cookies-2102)
 
